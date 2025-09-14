@@ -26,4 +26,10 @@ Clone this repository and install dependencies:
 git clone https://github.com/<your-username>/next-word-prediction.git
 cd next-word-prediction
 pip install -r requirements.txt
+##  Usage
+python src/next_word_prediction.py
+Input : "sherlock holmes was"
+Output: "sherlock holmes was not in the"
 
+Input : "the king of"
+Output: "the king of bohemia was in"
