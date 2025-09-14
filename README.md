@@ -6,6 +6,17 @@ It trains a deep learning model (LSTM) to predict the next word in a sequence of
 ---
 
 ## 📂 Project Structure
+next-word-prediction/
+├── data/
+│   └── 1661-0.txt             # Dataset (Sherlock Holmes book)
+├── notebooks/
+│   └── Next_Word_Prediction.ipynb   # Jupyter Notebook with explanations
+├── src/
+│   └── next_word_prediction.py # Training + prediction script
+├── requirements.txt            # Dependencies
+├── README.md                   # Documentation
+└── .gitignore
+
 
 ---
 
