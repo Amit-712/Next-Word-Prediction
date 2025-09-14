@@ -6,7 +6,13 @@ It trains a deep learning model (LSTM) to predict the next word in a sequence of
 ---
 
 ## 📂 Project Structure
-├── 1661-0.txt # Dataset (Sherlock Holmes book)
-├── next_word_prediction.py # Main script
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+
+---
+
+## ⚙️ Installation
+Clone this repository and install dependencies:
+```bash
+git clone https://github.com/<your-username>/next-word-prediction.git
+cd next-word-prediction
+pip install -r requirements.txt
+
