@@ -1,0 +1,6 @@
+python src/next_word_prediction.py
+Input : "sherlock holmes was"
+Output: "sherlock holmes was not in the"
+
+Input : "the king of"
+Output: "the king of bohemia was in"
