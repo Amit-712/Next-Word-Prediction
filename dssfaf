@@ -1,0 +1,7 @@
+# create project folder and subfolders
+mkdir next-word-prediction
+cd next-word-prediction
+mkdir data src notebooks
+
+# create empty files we'll fill
+touch README.md requirements.txt .gitignore src/next_word_prediction.py
