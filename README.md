@@ -1,19 +1,4 @@
-"""
-Next Word Prediction using LSTM
-Author: Amit Singh
-Resume Project
-"""
 
-# ---------------------------
-# Requirements (for requirements.txt)
-# ---------------------------
-# tensorflow==2.17.0
-# numpy
-
-# ---------------------------
-# README.md content
-# ---------------------------
-"""
 # 📝 Next Word Prediction using LSTM
 
 This project builds a **Next Word Prediction model** using *The Adventures of Sherlock Holmes* dataset (Project Gutenberg).  
